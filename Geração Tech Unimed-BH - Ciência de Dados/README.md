@@ -1,5 +1,5 @@
 # Geração Tech Unimed-BH - Ciência de Dados
-Repositório para apresentação do Bootcamp Geração Tech Unimed-BH
+Repositório para apresentação da atividades do Bootcamp - Geração Tech Unimed-BH
 
 #contratoDeCompromisso :computer:
 

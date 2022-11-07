@@ -1,5 +1,5 @@
 # Bootcamp
-Repositório para apresentação dos meus projetos em Bootcamp.
+Repositório para apresentação dos meus Bootcamp.
 
 #contratoDeCompromisso :computer:
 

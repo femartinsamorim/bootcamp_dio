@@ -5,6 +5,8 @@ Repositório para apresentação das atividades do Bootcamp - Geração Tech Uni
 
 #contratoDeCompromisso :computer:
 
+Conteúdo será mantido com atualizações e refinamentos.
+
 **<u>Referências</u>**:
 
 [Dio.me](https://www.dio.me/)
